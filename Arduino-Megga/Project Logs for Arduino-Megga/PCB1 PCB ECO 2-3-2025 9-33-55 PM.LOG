@@ -1,0 +1,5 @@
+Change Component Designator: OldDesignator=D? NewDesignator=D1
+Added Component: Designator=Arduino Mega?(Arduino Mega)
+Added Pin To Net: NetName=NetArduino Mega?_11 Pin=Arduino Mega?-11
+Added Pin To Net: NetName=NetArduino Mega?_77 Pin=Arduino Mega?-77
+Added Member To Class: ClassName=Sheet1 Member=Component Arduino Mega? *
